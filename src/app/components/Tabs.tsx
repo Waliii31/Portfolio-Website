@@ -9,6 +9,7 @@ import Acorn from '../Images/Acorn.png';
 import Days30 from '../Images/30days.png';
 import About from "./About";
 import Content from "./Content";
+import Athens from "../Images/Athens.png"
 import post4 from "../Images/30days30projects/4.png";
 import post5 from "../Images/30days30projects/5.png";
 import post6 from "../Images/30days30projects/6.png";
@@ -49,6 +50,14 @@ export function TabsDemo() {
             imageSrc: FirstPost,
             linkTo: "", // Added 'https://' prefix
             showGreeting: true,
+        },
+        {
+            date: "28 Oct 2024",
+            mood: "🎨 Creative",
+            description: "Created an elegant online art gallery showcasing a curated collection of original paintings. Features include a gallery view with detailed artwork descriptions and artist profiles. Built with React and modern CSS to create a sophisticated platform for art enthusiasts to explore and appreciate fine art.",
+            imageSrc: Athens,
+            linkTo: "https://athens-k6v3445sz-wali-zafris-projects.vercel.app/",
+            showGreeting: false
         },
         {
             date: "21 Jan 2023",

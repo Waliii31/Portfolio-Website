@@ -9,6 +9,11 @@ const Content = () => {
       date: "17 Oct"
     },
     {
+      ProjectName: "ATHENS | THE ART CONCIERGE",
+      link: "https://athens-k6v3445sz-wali-zafris-projects.vercel.app/",
+      date: "28 Oct 2024"
+    },
+    {
       ProjectName: "EREN - Lamps Ecommerce Website",
       link: "https://eren-website.netlify.app/",
       date: "Feb 2023"
