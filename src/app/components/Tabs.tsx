@@ -9,6 +9,7 @@ import Acorn from '../Images/Acorn.png';
 import Days30 from '../Images/30days.png';
 import About from "./About";
 import Content from "./Content";
+import NewPosition from "../Images/New-Position-Post.png"
 import Athens from "../Images/Athens.png"
 import post4 from "../Images/30days30projects/4.png";
 import post5 from "../Images/30days30projects/5.png";
@@ -50,6 +51,14 @@ export function TabsDemo() {
             imageSrc: FirstPost,
             linkTo: "", // Added 'https://' prefix
             showGreeting: true,
+        },
+        {
+            "date": "25 Oct 2024",
+            "mood": "😊 Happy",
+            "description": "Started an exciting new role as a Junior Frontend Developer at Eurosoft Tech Limited! I'm thrilled to apply my skills in HTML, CSS, JavaScript, TypeScript, React, and Tailwind CSS in a professional setting, contributing to impactful projects and collaborating with talented colleagues. This position offers a fantastic opportunity for me to learn, grow, and make meaningful contributions as I continue developing my frontend expertise.",
+            "imageSrc": "NewPosition",
+            "linkTo": "https://www.linkedin.com/company/eurosoft-tech-limited/",
+            "showGreeting": false
         },
         {
             date: "28 Oct 2024",
