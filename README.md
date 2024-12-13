@@ -1,4 +1,6 @@
-# Personal Portfolio Website
+# My Portfolio Website
+
+![GITHUB PROFILE](https://github.com/user-attachments/assets/cbe0aeaf-ad4e-4253-a163-9a9dac62c542)
 
 Welcome to the repository for my personal portfolio website! This project showcases my skills, projects, and professional journey in a sleek and modern design. Built with the latest web technologies, it serves as an interactive platform to share my work and connect with potential collaborators or employers.
 
