@@ -10,7 +10,7 @@ const Navbar = () => {
         alt="Description of the image"
         width={40}
       />
-      <a href='https://drive.google.com/file/d/1LMPdLF23hIzR9gVWlyheb5ByhrbYnyqP/view?usp=sharing' target='_blank' className="flex text-customBlue cursor-pointer">Download Resume<Download className='ml-3' /></a>
+      <a href='https://drive.google.com/file/d/1wpDhjwKwZG05fe2TVX0WIlnncnYuTODy/view?usp=sharing' target='_blank' className="flex text-customBlue cursor-pointer">Download Resume<Download className='ml-3' /></a>
     </div>
   )
 }
